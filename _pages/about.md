@@ -14,4 +14,4 @@ I obtained my PhD in Sociology, Demography, and Statistics at the Institute for 
 
 Using predominantly household panel survey data and longitudinal data analysis methods, my research focuses on the causes and consequences of social inequalities over and between life courses of individuals with a particular focus on subjective and economic wellbeing, gender, work, and the family.
 
-My research has been published in journals such as the European Sociological Review, Journal of Marriage and Family, European Journal of Population, or International Journal of Social Research Methodology.
+My research has been published in journals such as the [I]European Sociological Review[/i], Journal of Marriage and Family, European Journal of Population, or International Journal of Social Research Methodology.
