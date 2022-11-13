@@ -5,12 +5,34 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+If you have problems accessing any of these publications, please [contact](/contact) me.
 
-{% include base_path %}
+## Peer-reviewed journal articles
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+#### 2022
+
+Kapelle, N., Nutz, T., Tisch, D., Schechtl, M., Lersch, P. M. & Struffolino, E. (2022) My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population* *38*(4). 811--834. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7) \| [Replication files](https://osf.io/4mvxr/) 
+
+Kapelle, N. (2022) Time cannot heal all wounds: Personal wealth trajectories of divorcees and the married. *Journal of Marriage and Family*, *84*(2), 592-611. doi: [10.1111/jomf.12824](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12824)
+
+Kapelle, N., & Vidal, S. (2022) Heterogeneity in family life course patterns and intra-cohort wealth disparities in late working age. *European Journal of Population*, *38*(1), 59-92. doi: [10.1007/s10680-021-09601-4](https://link.springer.com/article/10.1007/s10680-021-09601-4)
+
+#### 2021
+
+Kapelle, N., & Baxter, J. (2021). Marital dissolution and personal wealth: Examining gendered trends across the dissolution process. *Journal of Marriage and Family*, *83*(1), 243-259. doi: [10.1111/jomf.12707](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12707)
+
+#### 2020
+
+Kapelle, N., & Lersch, P. M. (2020). The accumulation of wealth in marriage: Over-time change and within-couple inequalities. *European Sociological Review*, *36*(4), 580–593. doi: [10.1093/esr/jcaa006](https://academic.oup.com/esr/article/36/4/580/5753972?login=false)
+
+Spallek, M., Haynes, M., Baxter, J., & Kapelle, N. (2020). The value of administrative data for longitudinal social research: A case study investigating income support receipt and relationship separation in Australia. *International Journal of Social Research Methodology*, *23*(5), 467-481. doi: [10.1080/13645579.2019.1707984](https://www.tandfonline.com/doi/abs/10.1080/13645579.2019.1707984)
+
+## Book chapters
+
+Kapelle, N. (Forthcoming) Money, work, and wealth in partnerships. In: D. Mortelmans, L. Bernardi & B. Perelli-Harris (Ed.) *Research Handbook on Partnering across the Life Course*. Cheltenham: Edward Elgar Publishing.
+
+Kuper, H., & Kapelle, N. (2012) Lehrerkooperation aus organisationssoziologischer Sicht [Cooperation between teachers from the perspective of organisational sociology]. In: E. Baum; T.-S. Idel & H. Ullrich (Ed.) *Kollegialität und Kooperation in der Schule: Theoretische Konzepte und empirische Befunde* (pp. 41-51). Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+## Dissertation
+
+Kapelle, N. (2020). *May your wealth be easily divisible by two: Marital dissolution and personal wealth of German men and women over the life course* [Doctoral dissertation]. Brisbane: Institute for Social Science Research, University of Queensland.
