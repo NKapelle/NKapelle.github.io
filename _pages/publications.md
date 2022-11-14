@@ -35,4 +35,4 @@ Kuper, H., & Kapelle, N. (2012) Lehrerkooperation aus organisationssoziologische
 
 ## Dissertation
 
-Kapelle, N. (2020). *May your wealth be easily divisible by two: Marital dissolution and personal wealth of German men and women over the life course* [Doctoral dissertation]. Brisbane: Institute for Social Science Research, University of Queensland.  \| [Replication files](https://osf.io/4mvxr/) \| [PDF](/files/phd_thesis.pdf)
+Kapelle, N. (2020). *May your wealth be easily divisible by two: Marital dissolution and personal wealth of German men and women over the life course* [Doctoral dissertation]. Brisbane: Institute for Social Science Research, University of Queensland. [PDF](/files/phd_thesis.pdf)
