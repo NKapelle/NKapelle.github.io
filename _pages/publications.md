@@ -11,7 +11,7 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 #### 2022
 
-Kapelle, N., Nutz, T., Tisch, D., Schechtl, M., Lersch, P. M. & Struffolino, E. (2022) My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population*, *38*(4). 811--834. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7) \| [Replication files](https://osf.io/4mvxr/) 
+Kapelle, N., Nutz, T., Tisch, D., Schechtl, M., Lersch, P. M. & Struffolino, E. (2022) My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population*, *38*(4). 811--834. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7) \| [Replication files](https://osf.io/4mvxr/) \| [PDF](/files/2022_EJP_s10680-022-09630-7.pdf)
 
 Kapelle, N. (2022) Time cannot heal all wounds: Personal wealth trajectories of divorcees and the married. *Journal of Marriage and Family*, *84*(2), 592-611. doi: [10.1111/jomf.12824](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12824)
 
