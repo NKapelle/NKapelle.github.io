@@ -31,7 +31,7 @@ Spallek, M., Haynes, M., Baxter, J., & Kapelle, N. (2020). The value of administ
 
 Kapelle, N. (Forthcoming) Money, work, and wealth in partnerships. In: D. Mortelmans, L. Bernardi & B. Perelli-Harris (Ed.) *Research Handbook on Partnering across the Life Course*. Cheltenham: Edward Elgar Publishing.
 
-Kuper, H., & Kapelle, N. (2012) Lehrerkooperation aus organisationssoziologischer Sicht [Cooperation between teachers from the perspective of organisational sociology]. In: E. Baum; T.-S. Idel & H. Ullrich (Ed.) *Kollegialität und Kooperation in der Schule: Theoretische Konzepte und empirische Befunde* (pp. 41-51). Wiesbaden: VS Verlag für Sozialwissenschaften.
+Kuper, H., & Kapelle, N. (2012) Lehrerkooperation aus organisationssoziologischer Sicht [Cooperation between teachers from the perspective of organisational sociology]. In: E. Baum; T.-S. Idel & H. Ullrich (Ed.) *Kollegialität und Kooperation in der Schule: Theoretische Konzepte und empirische Befunde* (pp. 41-51). Wiesbaden: VS Verlag für Sozialwissenschaften. [PDF](/files/2012_book chapter_KuperKapelle.pdf)
 
 ## Dissertation
 
