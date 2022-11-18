@@ -36,3 +36,17 @@ Kuper, H., & Kapelle, N. (2012) Lehrerkooperation aus organisationssoziologische
 ## Dissertation
 
 Kapelle, N. (2020). *May your wealth be easily divisible by two: Marital dissolution and personal wealth of German men and women over the life course* [Doctoral dissertation]. Brisbane: Institute for Social Science Research, University of Queensland. [PDF](/files/phd_thesis.pdf)
+
+## Work-in progress 
+
+Schechtl, M. & Kapelle, N. A Marriage tax premium? Comparing the US, UK, and Germany. Under review at *Sociological Science*.
+
+Kapelle, N., & Weiland, A. A typology of within-couple economic inequality and subjective wellbeing of spouses. In preparation for submission to *Gender and Society*.
+
+Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. In preparation for submission to *Socio-Economic Review*.
+
+Kapelle, N. & Monden, C. Marital dissolution in later life and loneliness in Australia. In preparation for submission to *Journal of Gerontology*.
+
+Kapelle, N. & Rowold, C. Family life course trajectory features and wealth in older age. In preparation for submission to *Demography*.
+
+Van Winkle, Z. & Kapelle, N. Net worth over the widowhood transition across Europe.
