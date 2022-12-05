@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### 2019-2020: The University of Oxford, Oxford, England
+### 2021-2022: The University of Oxford, Oxford, England
 * Sociology of Gender \| Course Convenor \| Master's level course
 
 ### 2015-2017: The University of Queensland, Brisbane, Australia
