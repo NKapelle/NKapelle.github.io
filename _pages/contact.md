@@ -12,5 +12,5 @@ Germany
 
 ___________________________________
  
-**Email:** nicole.kapelle (at) hu-berlin.de  
+**Email:** nicole (dot) kapelle (at) hu (hyphen) berlin (dot) de  
 **Phone:** +49 (0)30 2093 66524
