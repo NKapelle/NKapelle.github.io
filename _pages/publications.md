@@ -39,13 +39,13 @@ Kapelle, N. (2020). *May your wealth be easily divisible by two: Marital dissolu
 
 ## Work-in progress 
 
-Schechtl, M., & Kapelle, N. A Marriage tax premium? Comparing the US, UK, and Germany. Under review at *Journal of Marriage and Family*.
+Schechtl, M., & Kapelle, N. A Marriage tax premium? Comparing the US, UK, and Germany. Revise and resubmit at *Journal of Marriage and Family*.
+
+Kapelle, N., & Monden, C. Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. Under review at *Journal of Gerontology*.
 
 Kapelle, N., & Weiland, A. A typology of within-couple economic inequality and subjective wellbeing of spouses. In preparation for submission to *Gender and Society*.
 
 Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. In preparation for submission to *Socio-Economic Review*.
-
-Kapelle, N., & Monden, C. Marital dissolution in later life and loneliness in Australia. In preparation for submission to *Journal of Gerontology*.
 
 Kapelle, N., & Rowold, C. Family life course trajectory features and wealth in older age. In preparation for submission to *Demography*.
 
