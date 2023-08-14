@@ -9,6 +9,8 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
+Schechtl, M., & Kapelle, N. (Forthcoming) The Male Marital Earnings Premium Contextualized: Longitudinal Evidence from the United States, Germany, and the United Kingdom. *Journal of Marriage and Family*.
+
 Kapelle, N., Nutz, T., Tisch, D., Schechtl, M., Lersch, P. M., & Struffolino, E. (2022) My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population*, *38*(4). 811--834. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7) \| [Replication files](https://osf.io/4mvxr/) \| [PDF](/files/2022_EJP_s10680-022-09630-7.pdf)
 
 Kapelle, N. (2022) Time cannot heal all wounds: Personal wealth trajectories of divorcees and the married. *Journal of Marriage and Family*, *84*(2), 592-611. doi: [10.1111/jomf.12824](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12824) \| [Replication files](https://osf.io/vhwsd/) \| [PDF](/files/2022_JMF_jomf.12824.pdf)
@@ -33,16 +35,14 @@ Kapelle, N. (2020). *May your wealth be easily divisible by two: Marital dissolu
 
 ## Work-in progress 
 
-Schechtl, M., & Kapelle, N. A Marriage tax premium? Comparing the US, UK, and Germany. Revise and resubmit at *Journal of Marriage and Family*.
+Kapelle, N., & Monden, C. Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. vUnder review*.
 
-Kapelle, N., & Monden, C. Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. Under review at *Journal of Health and Social Behavior*.
+Nutz, T., Tisch, D., & Kapelle, N. Gendered   pathways to   wealth:   The   self-assessed   relevance   of   different accumulation channels across the wealth distribution. *Under review*.
 
-Nutz, T., Tisch, D., & Kapelle, N. Gendered   pathways to   wealth:   The   self-assessed   relevance   of   different accumulation channels across the wealth distribution. Under review at *Socio-Economic Review*.
+Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Under review*.
 
-Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. Under review at *Socio-Economic Review*.
+Kapelle, N., & Weiland, A. The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. In preparation for submission.
 
-Kapelle, N., & Weiland, A. The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. In preparation for submission to *Sociological Science*.
-
-Kapelle, N., & Rowold, C. Family life course trajectory features and wealth in older age. In preparation for submission to *Demography*.
+Kapelle, N., & Rowold, C. Family life course trajectory features and wealth in older age. In preparation for submission.
 
 Van Winkle, Z., & Kapelle, N. Net worth over the widowhood transition across Europe.
