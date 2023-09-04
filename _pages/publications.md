@@ -9,7 +9,7 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
-Schechtl, M., & Kapelle, N. (2023) The Male Marital Earnings Premium Contextualized: Longitudinal Evidence from the United States, Germany, and the United Kingdom. *Journal of Marriage and Family*, *online first*. doi: [10.1111/jomf.12937](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12937) \| [Replication files](https://osf.io/uwq2z/) \| [PDF](/files/2023_JMF_jomf.12937.pdf)
+Schechtl, M., & Kapelle, N. (2023) The male marital earnings premium contextualized: Longitudinal evidence from the United States, Germany, and the United Kingdom. *Journal of Marriage and Family*, *online first*. doi: [10.1111/jomf.12937](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12937) \| [Replication files](https://osf.io/uwq2z/) \| [PDF](/files/2023_JMF_jomf.12937.pdf)
 
 Kapelle, N., Nutz, T., Tisch, D., Schechtl, M., Lersch, P. M., & Struffolino, E. (2022) My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population*, *38*(4). 811--834. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7) \| [Replication files](https://osf.io/4mvxr/) \| [PDF](/files/2022_EJP_s10680-022-09630-7.pdf)
 
@@ -37,9 +37,9 @@ Kapelle, N. (2020). *May your wealth be easily divisible by two: Marital dissolu
 
 Kapelle, N., & Monden, C. Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Revise and resubmit*.
 
-Nutz, T., Tisch, D., & Kapelle, N. Gendered   pathways to   wealth:   The   self-assessed   relevance   of   different accumulation channels across the wealth distribution. *Under review*.
+Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Revise and resubmit*.
 
-Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Under review*.
+Nutz, T., Tisch, D., & Kapelle, N. Gendered   pathways to   wealth:   The   self-assessed   relevance   of   different accumulation channels across the wealth distribution. *Under review*.
 
 Kapelle, N., & Weiland, A. The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *Under review*
 
