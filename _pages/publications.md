@@ -49,6 +49,6 @@ Kapelle, N., & Rowold, C. Family life course trajectory features and wealth in o
 
 Van Winkle, Z., & Kapelle, N. Net worth over the widowhood transition across Europe.
 
-Tilstra, A., & kapelle, N. Marital dissolution and health behaviours: Do gender and the initiator status matter?
+Tilstra, A., & Kapelle, N. Marital dissolution and health behaviours: Do gender and the initiator status matter?
 
 Kapelle, N., Vargha, L., Hornung, M., & Fasang, A. Diversity in intra-couple income inequalities across different welfare contexts
