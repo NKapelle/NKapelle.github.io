@@ -43,6 +43,12 @@ Nutz, T., Tisch, D., & Kapelle, N. Gendered   pathways to   wealth:   The   self
 
 Kapelle, N., & Weiland, A. The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *Under review*
 
+Zoch, G., & Kapelle, N. From parenthood to planet care? The evolution of environmental and climate concerns during family formation. In preparation for submission. [10.31235/osf.io/n4xwf](https://osf.io/preprints/socarxiv/n4xwf/) 
+
 Kapelle, N., & Rowold, C. Family life course trajectory features and wealth in older age. In preparation for submission.
 
 Van Winkle, Z., & Kapelle, N. Net worth over the widowhood transition across Europe.
+
+Tilstra, A., & kapelle, N. Marital dissolution and health behaviours: Do gender and the initiator status matter?
+
+Kapelle, N., Vargha, L., Hornung, M., & Fasang, A. Diversity in intra-couple income inequalities across different welfare contexts
