@@ -35,7 +35,7 @@ Kapelle, N. (2020). *May your wealth be easily divisible by two: Marital dissolu
 
 ## Work-in progress 
 
-Kapelle, N., & Monden, C. Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Revise and resubmit*.
+Kapelle, N., & Monden, C. Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Revise and resubmit*. [10.31235/osf.io/uqytc](https://osf.io/preprints/socarxiv/uqytc/) 
 
 Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Revise and resubmit*.
 
