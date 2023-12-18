@@ -9,7 +9,7 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
-Kapelle, N., & Monden, C. (Forthcoming) Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Journal of Health and Social Behavior*. doi [10.1177/00221465231223719] \| [Working paper](https://osf.io/preprints/socarxiv/uqytc/) 
+Kapelle, N., & Monden, C. (Forthcoming) Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Journal of Health and Social Behavior*. doi: 10.1177/00221465231223719 \| [Working paper](https://osf.io/preprints/socarxiv/uqytc/) 
 
 Schechtl, M., & Kapelle, N. (2023) The male marital earnings premium contextualized: Longitudinal evidence from the United States, Germany, and the United Kingdom. *Journal of Marriage and Family*, *online first*. doi: [10.1111/jomf.12937](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12937) \| [Replication files](https://osf.io/uwq2z/) \| [PDF](/files/2023_JMF_jomf.12937.pdf)
 
