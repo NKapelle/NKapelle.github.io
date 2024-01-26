@@ -41,7 +41,7 @@ Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth
 
 Kapelle, N., & Weiland, A. The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *Revise and resubmit*.
 
-Kapelle, N & Van Winkle, Z. Changes in wealth over the process of widowhood across European Countries. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
+Kapelle, N & Van Winkle, Z. Changes in wealth over the process of widowhood across European Countries. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
 
 Kapelle, N., & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
