@@ -37,7 +37,7 @@ Kapelle, N. (2020). *May your wealth be easily divisible by two: Marital dissolu
 
 ## Work-in progress 
 
-Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Revise and resubmit*.
+Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Under review after revision*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
 
 Kapelle, N., & Weiland, A. The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *Revise and resubmit*.
 
@@ -45,7 +45,7 @@ Kapelle, N & Van Winkle, Z. Changes in wealth over the process of widowhood acro
 
 Kapelle, N., & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
-Nutz, T., Kapelle, N., & Tisch, D. Gendered   pathways to   wealth:   The   self-assessed   relevance   of   different accumulation channels across the wealth distribution. *Under review*.
+Nutz, T., Kapelle, N., & Tisch, D. Gendered   pathways to   wealth:   The   self-assessed   relevance   of   different accumulation channels across the wealth distribution. In preparation for submission.
 
 Zoch, G., & Kapelle, N. From parenthood to planet care? The evolution of environmental and climate concerns during family formation. In preparation for submission. [Working paper](https://osf.io/preprints/socarxiv/n4xwf/) 
 
