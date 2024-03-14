@@ -39,16 +39,20 @@ Kapelle, N. (2020). *May your wealth be easily divisible by two: Marital dissolu
 
 Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Under review after revision*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
 
-Kapelle, N., & Weiland, A. The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *Revise and resubmit*.
+Kapelle, N., & Weiland, A. The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *Under review after revision*
 
-Kapelle, N & Van Winkle, Z. Changes in wealth over the process of widowhood across European Countries. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
+Kapelle, N & Van Winkle, Z. Changes in wealth over the process of widowhood across European Countries. *Under review after revision*. [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
 
 Kapelle, N., & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
+
+Tilstra, A., & Kapelle, N. Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Under review*.
+
+Kapelle, N., & Jessee, L. Navigating grey divorce: Dynamics of parent-adult child relationships in the United Kingdom. *Extended abstract under review for study to be considered as part of a special issue.*
+
+Cabib, I., Azar, A., & Kapelle, N. Family life course pluralization and differentiation across liberal regime countries. *Under review*.
 
 Nutz, T., Kapelle, N., & Tisch, D. Gendered   pathways to   wealth:   The   self-assessed   relevance   of   different accumulation channels across the wealth distribution. In preparation for submission.
 
 Zoch, G., & Kapelle, N. From parenthood to planet care? The evolution of environmental and climate concerns during family formation. In preparation for submission. [Working paper](https://osf.io/preprints/socarxiv/n4xwf/) 
-
-Tilstra, A., & Kapelle, N. Marital dissolution and health behaviours: Do gender and the initiator status matter?
 
 Kapelle, N., Vargha, L., Hornung, M., & Fasang, A. Diversity in intra-couple income inequalities across different welfare contexts
