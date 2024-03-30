@@ -45,7 +45,7 @@ Kapelle, N & Van Winkle, Z. Changes in wealth over the process of widowhood acro
 
 Kapelle, N., & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
-Tilstra, A., & Kapelle, N. Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Under review*.
+Tilstra, A., & Kapelle, N. Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
 Kapelle, N., & Jessee, L. Navigating grey divorce: Dynamics of parent-adult child relationships in the United Kingdom. *Extended abstract under review for study to be considered as part of a special issue.*
 
