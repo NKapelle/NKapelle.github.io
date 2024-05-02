@@ -47,9 +47,9 @@ Kapelle, N., & Rowold, C. Uncovering what matters: Family life course aspects an
 
 Tilstra, A., & Kapelle, N. Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
-Kapelle, N., & Jessee, L. Navigating grey divorce: Dynamics of parent-adult child relationships in the United Kingdom. *Extended abstract under review for study to be considered as part of a special issue.*
+Kapelle, N., & Jessee, L. Navigating grey divorce: Dynamics of parent-adult child relationships in the United Kingdom. *Invited for submission to a special issue.*
 
-Cabib, I., Azar, A., & Kapelle, N. Family life course pluralization and differentiation across liberal regime countries. *Under review*.
+Cabib, I., Kapelle, N., Azar, A., & Biehl, A.  Family life course pluralization and differentiation across liberal regime countries.
 
 Nutz, T., Kapelle, N., & Tisch, D. Gendered   pathways to   wealth:   The   self-assessed   relevance   of   different accumulation channels across the wealth distribution. In preparation for submission.
 
