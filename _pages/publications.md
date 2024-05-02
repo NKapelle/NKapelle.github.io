@@ -27,6 +27,8 @@ Spallek, M., Haynes, M., Baxter, J., & Kapelle, N. (2020). The value of administ
 
 ## Book chapters
 
+Rüttenauer, T. & Kapelle, N. (Forthcoming) Panel Data Analysis. In: U. Liebe (Ed.) *Handbook of Quantitative Methods in Sociology*. Cheltenham: Edward Elgar Publishing.
+
 Kapelle, N. (Forthcoming) Money, work, and wealth in partnerships. In: D. Mortelmans, L. Bernardi & B. Perelli-Harris (Ed.) *Research Handbook on Partnering across the Life Course*. Cheltenham: Edward Elgar Publishing.
 
 Kuper, H., & Kapelle, N. (2012) Lehrerkooperation aus organisationssoziologischer Sicht [Cooperation between teachers from the perspective of organisational sociology]. In: E. Baum; T.-S. Idel & H. Ullrich (Ed.) *Kollegialität und Kooperation in der Schule: Theoretische Konzepte und empirische Befunde* (pp. 41-51). Wiesbaden: VS Verlag für Sozialwissenschaften. [PDF](/files/2012_book chapter_KuperKapelle.pdf)
@@ -41,7 +43,7 @@ Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth
 
 Kapelle, N., & Weiland, A. The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *Under review after revision*
 
-Kapelle, N & Van Winkle, Z. Changes in wealth over the process of widowhood across European Countries. *Under review after revision*. [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
+Kapelle, N., & Van Winkle, Z. Changes in wealth over the process of widowhood across European Countries. *Under review after revision*. [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
 
 Kapelle, N., & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
