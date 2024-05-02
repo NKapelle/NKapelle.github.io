@@ -27,7 +27,7 @@ Spallek, M., Haynes, M., Baxter, J., & Kapelle, N. (2020). The value of administ
 
 ## Book chapters
 
-Rüttenauer, T. & Kapelle, N. (Forthcoming) Panel Data Analysis. In: U. Liebe (Ed.) *Handbook of Quantitative Methods in Sociology*. Cheltenham: Edward Elgar Publishing.
+Rüttenauer, T. & Kapelle, N. (Forthcoming) Panel Data Analysis. In: U. Liebe (Ed.) *Handbook of Quantitative Methods in Sociology*. Cheltenham: Edward Elgar Publishing. [Working paper](https://osf.io/preprints/socarxiv/3mfzq)
 
 Kapelle, N. (Forthcoming) Money, work, and wealth in partnerships. In: D. Mortelmans, L. Bernardi & B. Perelli-Harris (Ed.) *Research Handbook on Partnering across the Life Course*. Cheltenham: Edward Elgar Publishing.
 
