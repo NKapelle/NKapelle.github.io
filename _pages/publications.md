@@ -9,6 +9,8 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
+Kapelle, N., & Van Winkle, Z. (Forthcoming) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
+
 Kapelle, N., & Monden, C. (2024) Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Journal of Health and Social Behavior*, *online first*. doi: [10.1177/00221465231223719](https://doi.org/10.1177/00221465231223719) \| [Replication files](https://osf.io/qnyh9/) \| [PDF](/files/2024_JHSB_10.117700221465231223719.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/uqytc/) 
 
 Schechtl, M., & Kapelle, N. (2024) The male marital earnings premium contextualized: Longitudinal evidence from the United States, Germany, and the United Kingdom. *Journal of Marriage and Family*, *86*(1). 176-198. doi: [10.1111/jomf.12937](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12937) \| [Replication files](https://osf.io/uwq2z/) \| [PDF](/files/2023_JMF_jomf.12937.pdf)
@@ -43,20 +45,18 @@ Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth
 
 Kapelle, N., & Weiland, A. The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *Under review after revision*
 
-Kapelle, N., & Van Winkle, Z. Changes in wealth over the process of widowhood across European Countries. *Under review after revision*. [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
-
 Kapelle, N., & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
 Tilstra, A., & Kapelle, N. Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
 Althaber, A., Kapelle, N., & Leuze, K. Independent money management and partners’ relative resources: Comparing Eastern and Western Germany. *Under review*.
 
+Zoch, G., & Kapelle, N. From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf/) 
+
 Kapelle, N., & Jessee, L. Navigating grey divorce: Dynamics of parent-adult child relationships in the United Kingdom. *Invited for submission to special issue.*
 
 Cabib, I., Kapelle, N., Azar, A., & Biehl, A.  Family life course pluralization and differentiation across liberal regime countries.
 
 Nutz, T., Kapelle, N., & Tisch, D. Gendered   pathways to   wealth:   The   self-assessed   relevance   of   different accumulation channels across the wealth distribution. In preparation for submission.
-
-Zoch, G., & Kapelle, N. From parenthood to planet care? The evolution of environmental and climate concerns during family formation. In preparation for submission. [Working paper](https://osf.io/preprints/socarxiv/n4xwf/) 
 
 Kapelle, N., Vargha, L., Hornung, M., & Fasang, A. Diversity in intra-couple income inequalities across different welfare contexts
