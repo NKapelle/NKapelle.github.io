@@ -11,7 +11,7 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 Kapelle, N., & Van Winkle, Z. (Forthcoming) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
 
-Kapelle, N., & Monden, C. (2024) Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Journal of Health and Social Behavior*, *online first*. doi: [10.1177/00221465231223719](https://doi.org/10.1177/00221465231223719) \| [Replication files](https://osf.io/qnyh9/) \| [PDF](/files/2024_JHSB_10.117700221465231223719.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/uqytc/) 
+Kapelle, N., & Monden, C. (2024) Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Journal of Health and Social Behavior*, *65*(2), 292-308. doi: [10.1177/00221465231223719](https://doi.org/10.1177/00221465231223719) \| [Replication files](https://osf.io/qnyh9/) \| [PDF](/files/2024_JHSB_10.117700221465231223719.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/uqytc/) 
 
 Schechtl, M., & Kapelle, N. (2024) The male marital earnings premium contextualized: Longitudinal evidence from the United States, Germany, and the United Kingdom. *Journal of Marriage and Family*, *86*(1). 176-198. doi: [10.1111/jomf.12937](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12937) \| [Replication files](https://osf.io/uwq2z/) \| [PDF](/files/2023_JMF_jomf.12937.pdf)
 
