@@ -9,6 +9,8 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
+Kapelle, N., & Weiland, A. (Forthcoming) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*
+
 Kapelle, N., & Van Winkle, Z. (Forthcoming) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
 
 Kapelle, N., & Monden, C. (2024) Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Journal of Health and Social Behavior*, *65*(2), 292-308. doi: [10.1177/00221465231223719](https://doi.org/10.1177/00221465231223719) \| [Replication files](https://osf.io/qnyh9/) \| [PDF](/files/2024_JHSB_10.117700221465231223719.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/uqytc/) 
@@ -42,8 +44,6 @@ Kapelle, N. (2020). *May your wealth be easily divisible by two: Marital dissolu
 ## Work-in progress 
 
 Kapelle, N., Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Under review after revision*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
-
-Kapelle, N., & Weiland, A. The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *Under review after revision*
 
 Kapelle, N., & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
