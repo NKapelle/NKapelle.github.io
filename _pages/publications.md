@@ -9,9 +9,9 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
-Kapelle, N., & Weiland, A. (Forthcoming) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*
+Kapelle, N., & Weiland, A. (Forthcoming) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*.
 
-Kapelle, N., & Van Winkle, Z. (Forthcoming) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
+Kapelle, N., & Van Winkle, Z. (Forthcoming) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. [Working paper](https://osf.io/preprints/socarxiv/davxs/) \| [Replication files](https://osf.io/gyc7f/)
 
 Kapelle, N., & Monden, C. (2024) Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Journal of Health and Social Behavior*, *65*(2), 292-308. doi: [10.1177/00221465231223719](https://doi.org/10.1177/00221465231223719) \| [Replication files](https://osf.io/qnyh9/) \| [PDF](/files/2024_JHSB_10.117700221465231223719.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/uqytc/) 
 
@@ -31,7 +31,7 @@ Spallek, M., Haynes, M., Baxter, J., & Kapelle, N. (2020). The value of administ
 
 ## Book chapters
 
-Rüttenauer, T. & Kapelle, N. (Forthcoming) Panel Data Analysis. In: U. Liebe (Ed.) *Handbook of Quantitative Methods in Sociology*. Cheltenham: Edward Elgar Publishing. [Working paper](https://osf.io/preprints/socarxiv/3mfzq)
+Rüttenauer, T., & Kapelle, N. (Forthcoming) Panel Data Analysis. In: U. Liebe (Ed.) *Handbook of Quantitative Methods in Sociology*. Cheltenham: Edward Elgar Publishing. [Working paper](https://osf.io/preprints/socarxiv/3mfzq)
 
 Kapelle, N. (Forthcoming) Money, work, and wealth in partnerships. In: D. Mortelmans, L. Bernardi & B. Perelli-Harris (Ed.) *Research Handbook on Partnering across the Life Course*. Cheltenham: Edward Elgar Publishing.
 
@@ -40,6 +40,10 @@ Kuper, H., & Kapelle, N. (2012) Lehrerkooperation aus organisationssoziologische
 ## Dissertation
 
 Kapelle, N. (2020). *May your wealth be easily divisible by two: Marital dissolution and personal wealth of German men and women over the life course* [Doctoral dissertation]. Brisbane: Institute for Social Science Research, University of Queensland. [PDF](/files/phd_thesis.pdf)
+
+## Other
+
+Gruijters, R. J., Kapelle, N., Van Winkle, Z., & Fasang, A. (2024) [Millennials’ Wealth Is Finally Growing — But So Is Inequality](https://inequality.org/research/generational-wealth-inequality/). *Inequality.org*  
 
 ## Work-in progress 
 

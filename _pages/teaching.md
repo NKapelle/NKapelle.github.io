@@ -8,6 +8,8 @@ author_profile: true
 ### Since 2023: Humboldt-Universität zu Berlin, Berlin, Germany
 * Gender inequality in the family and the labour market: Theoretical approaches and empirical findings \| Course Convenor \| Bachelor's level proseminar
 * Microsociology and demography \| Lecturer and Tutor \| Bachelor's level course 
+* Applied panel data analysis in family sociology and life course research using STATA \| Course Convenor \| Master's level course
+* Microsociology colloquium for BA, MA and PhD students \| Course Convenor
 
 ### 2021-2022: The University of Oxford, Oxford, England
 * Sociology of Gender \| Course Convenor \| Master's level course
