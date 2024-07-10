@@ -45,7 +45,7 @@ Kuper, H., & **Kapelle, N.** (2012) Lehrerkooperation aus organisationssoziologi
 
 Gruijters, R. J., **Kapelle, N.**, Van Winkle, Z., & Fasang, A. (2024) [Millennials’ Wealth Is Finally Growing — But So Is Inequality](https://inequality.org/research/generational-wealth-inequality/). *Inequality.org*  
 
-## Work-in progress under review or in an advanced stage 
+## Work-in progress: Under review or in an advanced stage 
 
 **Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
 
