@@ -51,7 +51,7 @@ Gruijters, R. J., **Kapelle, N.**, Van Winkle, Z., & Fasang, A. (2024) [Millenni
 
 Althaber, A., **Kapelle, N.**, & Leuze, K. Independent money management and partners’ relative resources: Comparing Eastern and Western Germany. *Revise and resubmit*.
 
-**Kapelle, N.**, & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
+**Kapelle, N.**, & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
 Tilstra, A., & **Kapelle, N.** Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
