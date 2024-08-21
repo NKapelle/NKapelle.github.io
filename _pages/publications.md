@@ -9,7 +9,7 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
-**Kapelle, N.**, & Weiland, A. (Forthcoming) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*.
+**Kapelle, N.**, & Weiland, A. (Forthcoming) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*. [Replication files](https://osf.io/auzm4/)
 
 **Kapelle, N.**, & Van Winkle, Z. (Forthcoming) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. doi: [10.1093/geronb/gbae116](https://doi.org/10.1093/geronb/gbae116) \| [Working paper](https://osf.io/preprints/socarxiv/davxs/) \| [Replication files](https://osf.io/gyc7f/)
 
