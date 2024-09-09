@@ -11,7 +11,7 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 **Kapelle, N.**, & Weiland, A. (Forthcoming) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*. [Replication files](https://osf.io/auzm4/)
 
-**Kapelle, N.**, & Van Winkle, Z. (2024) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. doi: [10.1093/geronb/gbae116](https://doi.org/10.1093/geronb/gbae116) \| [Replication files](https://osf.io/gyc7f/) \| [PDF](/files/2024_JGSS_10.1093geronbgbae116.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
+**Kapelle, N.**, & Van Winkle, Z. (2024) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. *79*(10). doi: [10.1093/geronb/gbae116](https://doi.org/10.1093/geronb/gbae116) \| [Replication files](https://osf.io/gyc7f/) \| [PDF](/files/2024_JGSS_10.1093geronbgbae116.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
 
 **Kapelle, N.**, & Monden, C. (2024) Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Journal of Health and Social Behavior*, *65*(2), 292-308. doi: [10.1177/00221465231223719](https://doi.org/10.1177/00221465231223719) \| [Replication files](https://osf.io/qnyh9/) \| [PDF](/files/2024_JHSB_10.117700221465231223719.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/uqytc/) 
 
