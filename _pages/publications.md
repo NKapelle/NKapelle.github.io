@@ -53,9 +53,9 @@ Althaber, A., **Kapelle, N.**, & Leuze, K. Independent money management and part
 
 **Kapelle, N.**, & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
-Tilstra, A., & **Kapelle, N.** Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/h8w53)
+Tilstra, A., & **Kapelle, N.** Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
-Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Under review*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf/) 
+Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf/) 
 
 Cabib, I., Azar, A., **Kapelle, N.**, Biehl, A., & Yopo Díaz, M. Family life course pluralization and differentiation across liberal regime countries. *Under review*
 
