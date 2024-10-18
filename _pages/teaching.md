@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Since 2024: Trinity College Dublin, Dublin, Ireland
+* Comparative Sociology of Europe \| Course Convenor \| Bachelor's level course 
+* Social Stratification & Inequality \| Course Convenor \| Bachelor's level course 
+* Introduction to Social Demography \| Course Convenor \| Bachelor's level course 
+
 ### 2023-2024: Humboldt-Universität zu Berlin, Berlin, Germany
 * Gender inequality in the family and the labour market: Theoretical approaches and empirical findings \| Course Convenor \| Bachelor's level proseminar
 * Microsociology and demography \| Lecturer and Tutor \| Bachelor's level course 
