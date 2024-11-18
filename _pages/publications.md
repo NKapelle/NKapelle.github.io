@@ -47,15 +47,15 @@ Gruijters, R. J., **Kapelle, N.**, Van Winkle, Z., & Fasang, A. (2024) [Millenni
 
 ## Work-in progress: Under review or in an advanced stage 
 
-**Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
+Tilstra, A., & **Kapelle, N.** Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
-Althaber, A., **Kapelle, N.**, & Leuze, K. Independent money management and partners’ relative resources: Comparing Eastern and Western Germany. *Revise and resubmit*.
+Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf/) 
 
 **Kapelle, N.**, & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
-Tilstra, A., & **Kapelle, N.** Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/h8w53)
+**Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
 
-Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf/) 
+Althaber, A., **Kapelle, N.**, & Leuze, K. Independent money management and partners’ relative resources: Comparing Eastern and Western Germany. *Revise and resubmit*.
 
 Cabib, I., Azar, A., **Kapelle, N.**, Biehl, A., & Yopo Díaz, M. Family life course pluralization and differentiation across liberal regime countries. *Under review*
 
