@@ -9,7 +9,9 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
-**Kapelle, N.**, & Weiland, A. (Forthcoming) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*. [Replication files](https://osf.io/auzm4/)
+Tilstra, A., & **Kapelle, N.** (Forthcoming) Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Journal of Health and Social Behavior*. [Replication files](https://osf.io/tk5z2/) \| [Working paper](https://osf.io/preprints/socarxiv/h8w53)
+
+**Kapelle, N.**, & Weiland, A. (Forthcoming) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*. [Replication files](https://osf.io/auzm4/) \| [Working paper](https://osf.io/preprints/osf/ruyfp)
 
 **Kapelle, N.**, & Van Winkle, Z. (2024) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. *79*(10). doi: [10.1093/geronb/gbae116](https://doi.org/10.1093/geronb/gbae116) \| [Replication files](https://osf.io/gyc7f/) \| [PDF](/files/2024_JGSS_10.1093geronbgbae116.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
 
@@ -46,8 +48,6 @@ Kuper, H., & **Kapelle, N.** (2012) Lehrerkooperation aus organisationssoziologi
 Gruijters, R. J., **Kapelle, N.**, Van Winkle, Z., & Fasang, A. (2024) [Millennials’ Wealth Is Finally Growing — But So Is Inequality](https://inequality.org/research/generational-wealth-inequality/). *Inequality.org*  
 
 ## Work-in progress: Under review or in an advanced stage 
-
-Tilstra, A., & **Kapelle, N.** Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
 Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf/) 
 
