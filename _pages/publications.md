@@ -9,7 +9,7 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
-Tilstra, A., & **Kapelle, N.** (Conditionally Accepted) Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Journal of Health and Social Behavior*. [Replication files](https://osf.io/tk5z2/) \| [Working paper](https://osf.io/preprints/socarxiv/h8w53)
+Tilstra, A., & **Kapelle, N.** (Forthcoming) Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Journal of Health and Social Behavior*. [Replication files](https://osf.io/tk5z2/) \| [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
 **Kapelle, N.**, & Weiland, A. (Forthcoming) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*. [Replication files](https://osf.io/auzm4/) \| [Working paper](https://osf.io/preprints/osf/ruyfp)
 
