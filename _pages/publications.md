@@ -51,7 +51,7 @@ Gruijters, R. J., **Kapelle, N.**, Van Winkle, Z., & Fasang, A. (2024) [Millenni
 
 Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf/) 
 
-**Kapelle, N.**, & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
+**Kapelle, N.**, & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
 **Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
 
