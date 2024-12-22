@@ -4,11 +4,11 @@ title: "Contact"
 ---
 
 Dr Nicole Kapelle  
-Department of Sociology 
-3 College Green 
-Trinity College 
-Dublin 2 
-Ireland 
+Department of Sociology   
+3 College Green   
+Trinity College   
+Dublin 2   
+Ireland   
 
 ___________________________________
  
