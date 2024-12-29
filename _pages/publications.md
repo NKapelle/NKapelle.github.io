@@ -53,7 +53,7 @@ Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of env
 
 **Kapelle, N.**, & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
-**Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
+**Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
 
 Althaber, A., **Kapelle, N.**, & Leuze, K. Independent money management and partners’ relative resources: Comparing Eastern and Western Germany. *Revise and resubmit*.
 
