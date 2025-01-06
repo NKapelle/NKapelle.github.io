@@ -11,7 +11,7 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 Tilstra, A., & **Kapelle, N.** (Forthcoming) Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Journal of Health and Social Behavior*. [Replication files](https://osf.io/tk5z2/) \| [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
-**Kapelle, N.**, & Weiland, A. (Forthcoming) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*. [Replication files](https://osf.io/auzm4/) \| [Working paper](https://osf.io/preprints/osf/ruyfp)
+**Kapelle, N.**, & Weiland, A. (2025) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*. doi: [10.1162/euso_a_00013](https://direct.mit.edu/euso/article/doi/10.1162/euso_a_00013/125835) \| [Replication files](https://osf.io/auzm4/) \| [Working paper](https://osf.io/preprints/osf/ruyfp)
 
 **Kapelle, N.**, & Van Winkle, Z. (2024) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. *79*(10). doi: [10.1093/geronb/gbae116](https://doi.org/10.1093/geronb/gbae116) \| [Replication files](https://osf.io/gyc7f/) \| [PDF](/files/2024_JGSS_10.1093geronbgbae116.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
 
