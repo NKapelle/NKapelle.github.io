@@ -9,6 +9,8 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
+**Kapelle, N.**, & Rowold, C. (Forthcoming) Uncovering what matters: Family life course aspects and personal wealth in late working age. *Demographic Research*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
+
 Tilstra, A., & **Kapelle, N.** (Forthcoming) Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Journal of Health and Social Behavior*. [Replication files](https://osf.io/tk5z2/) \| [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
 **Kapelle, N.**, & Weiland, A. (2025) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*. doi: [10.1162/euso_a_00013](https://direct.mit.edu/euso/article/doi/10.1162/euso_a_00013/125835) \| [Replication files](https://osf.io/auzm4/) \| [Working paper](https://osf.io/preprints/osf/ruyfp)
@@ -50,8 +52,6 @@ Gruijters, R. J., **Kapelle, N.**, Van Winkle, Z., & Fasang, A. (2024) [Millenni
 ## Work-in progress: Under review or in an advanced stage 
 
 Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf/) 
-
-**Kapelle, N.**, & Rowold, C. Uncovering what matters: Family life course aspects and personal wealth in late working age. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
 **Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. The cohabitation wealth premium: Comparing France, and East and West Germany. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
 
