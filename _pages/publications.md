@@ -9,9 +9,9 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
-**Kapelle, N.**, & Rowold, C. (Forthcoming) Uncovering what matters: Family life course aspects and personal wealth in late working age. *Demographic Research*. [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
+**Kapelle, N.**, & Rowold, C. (Forthcoming) Uncovering what matters: Family life course aspects and personal wealth in late working age. *Demographic Research*. [Replication files](https://osf.io/b9ya6/) \| [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
-**Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. (Forthcoming) A Cohabitation Wealth Premium for Women and Men: Considering the Regulatory Framework and Normative Acceptance in France and Germany. *Socio-Economic Review*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
+**Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. (Forthcoming) A cohabitation wealth premium for women and men: Considering the regulatory framework and normative acceptance in France and Germany. *Socio-Economic Review*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
 
 Tilstra, A., & **Kapelle, N.** (Forthcoming) Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Journal of Health and Social Behavior*. [Replication files](https://osf.io/tk5z2/) \| [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
