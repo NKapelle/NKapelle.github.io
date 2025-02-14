@@ -53,7 +53,7 @@ Gruijters, R. J., **Kapelle, N.**, Van Winkle, Z., & Fasang, A. (2024) [Millenni
 
 ## Work-in progress: Under review or in an advanced stage 
 
-Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf_v1) 
+Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf_v1)
 
 Althaber, A., **Kapelle, N.**, & Leuze, K. Independent money management and partners’ relative resources: Comparing Eastern and Western Germany. *Revise and resubmit*.
 
