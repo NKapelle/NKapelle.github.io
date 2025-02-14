@@ -17,9 +17,9 @@ Tilstra, A., & **Kapelle, N.** (Forthcoming) Breaking bonds, changing habits: Un
 
 **Kapelle, N.**, & Weiland, A. (2025) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*. doi: [10.1162/euso_a_00013](https://direct.mit.edu/euso/article/doi/10.1162/euso_a_00013/125835) \| [Replication files](https://osf.io/auzm4/) \| [Working paper](https://osf.io/preprints/osf/ruyfp)
 
-**Kapelle, N.**, & Van Winkle, Z. (2024) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. *79*(10). doi: [10.1093/geronb/gbae116](https://doi.org/10.1093/geronb/gbae116) \| [Replication files](https://osf.io/gyc7f/) \| [PDF](/files/2024_JGSS_10.1093geronbgbae116.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/davxs/) 
+**Kapelle, N.**, & Van Winkle, Z. (2024) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. *79*(10). doi: [10.1093/geronb/gbae116](https://doi.org/10.1093/geronb/gbae116) \| [Replication files](https://osf.io/gyc7f/) \| [PDF](/files/2024_JGSS_10.1093geronbgbae116.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/davxs_v1) 
 
-**Kapelle, N.**, & Monden, C. (2024) Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Journal of Health and Social Behavior*, *65*(2), 292-308. doi: [10.1177/00221465231223719](https://doi.org/10.1177/00221465231223719) \| [Replication files](https://osf.io/qnyh9/) \| [PDF](/files/2024_JHSB_10.117700221465231223719.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/uqytc/) 
+**Kapelle, N.**, & Monden, C. (2024) Transitory or chronic? Gendered loneliness trajectories over widowhood and separation in older age. *Journal of Health and Social Behavior*, *65*(2), 292-308. doi: [10.1177/00221465231223719](https://doi.org/10.1177/00221465231223719) \| [Replication files](https://osf.io/qnyh9/) \| [PDF](/files/2024_JHSB_10.117700221465231223719.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/uqytc_v1) 
 
 Schechtl, M., & **Kapelle, N.** (2024) The male marital earnings premium contextualized: Longitudinal evidence from the United States, Germany, and the United Kingdom. *Journal of Marriage and Family*, *86*(1). 176-198. doi: [10.1111/jomf.12937](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12937) \| [Replication files](https://osf.io/uwq2z/) \| [PDF](/files/2023_JMF_jomf.12937.pdf)
 
@@ -53,7 +53,7 @@ Gruijters, R. J., **Kapelle, N.**, Van Winkle, Z., & Fasang, A. (2024) [Millenni
 
 ## Work-in progress: Under review or in an advanced stage 
 
-Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf/) 
+Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf_v1) 
 
 Althaber, A., **Kapelle, N.**, & Leuze, K. Independent money management and partners’ relative resources: Comparing Eastern and Western Germany. *Revise and resubmit*.
 
