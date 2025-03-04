@@ -13,9 +13,9 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 **Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. (Forthcoming) A cohabitation wealth premium for women and men: Considering the regulatory framework and normative acceptance in France and Germany. *Socio-Economic Review*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
 
-Tilstra, A., & **Kapelle, N.** (Forthcoming) Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Journal of Health and Social Behavior*. [Replication files](https://osf.io/tk5z2/) \| [Working paper](https://osf.io/preprints/socarxiv/h8w53)
+Tilstra, A., & **Kapelle, N.** (2025) Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Journal of Health and Social Behavior*. doi: [10.1177/00221465251320079](https://journals.sagepub.com/doi/10.1177/00221465251320079) \| [Replication files](https://osf.io/tk5z2/)  \| [PDF](/files/2025_JHSB_10.117700221465251320079.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
-**Kapelle, N.**, & Weiland, A. (2025) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*. doi: [10.1162/euso_a_00013](https://direct.mit.edu/euso/article/doi/10.1162/euso_a_00013/125835) \| [Replication files](https://osf.io/auzm4/) \| [Working paper](https://osf.io/preprints/osf/ruyfp)
+**Kapelle, N.**, & Weiland, A. (2025) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*. doi: [10.1162/euso_a_00013](https://direct.mit.edu/euso/article/doi/10.1162/euso_a_00013/125835) \| [Replication files](https://osf.io/auzm4/) \| [PDF](/files/2025_EUSO_10.1162euso_a_00013.pdf) \| [Working paper](https://osf.io/preprints/osf/ruyfp)
 
 **Kapelle, N.**, & Van Winkle, Z. (2024) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. *79*(10). doi: [10.1093/geronb/gbae116](https://doi.org/10.1093/geronb/gbae116) \| [Replication files](https://osf.io/gyc7f/) \| [PDF](/files/2024_JGSS_10.1093geronbgbae116.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/davxs_v1) 
 
