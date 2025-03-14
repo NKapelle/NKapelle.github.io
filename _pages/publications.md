@@ -9,9 +9,11 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
+Zoch, G., & **Kapelle, N.** (Forthcoming) From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Population and Environment*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf_v1)
+
 **Kapelle, N.**, & Rowold, C. (Forthcoming) Uncovering what matters: Family life course aspects and personal wealth in late working age. *Demographic Research*. [Replication files](https://osf.io/b9ya6/) \| [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
-**Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. (Forthcoming) A cohabitation wealth premium for women and men: Considering the regulatory framework and normative acceptance in France and Germany. *Socio-Economic Review*. [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
+**Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. (2025) A cohabitation wealth premium for women and men: Considering the regulatory framework and normative acceptance in France and Germany. *Socio-Economic Review*. doi: [10.1093/ser/mwaf013](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwaf013/8078032?login=true) \| [PDF](/files/2025_SER_10.1093sermwaf013) \| [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
 
 Tilstra, A., & **Kapelle, N.** (2025) Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Journal of Health and Social Behavior*. doi: [10.1177/00221465251320079](https://journals.sagepub.com/doi/10.1177/00221465251320079) \| [Replication files](https://osf.io/tk5z2/)  \| [PDF](/files/2025_JHSB_10.117700221465251320079.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/h8w53)
 
@@ -52,8 +54,6 @@ Kuper, H., & **Kapelle, N.** (2012) Lehrerkooperation aus organisationssoziologi
 Gruijters, R. J., **Kapelle, N.**, Van Winkle, Z., & Fasang, A. (2024) [Millennials’ Wealth Is Finally Growing — But So Is Inequality](https://inequality.org/research/generational-wealth-inequality/). *Inequality.org*  
 
 ## Work-in progress: Under review or in an advanced stage 
-
-Zoch, G., & **Kapelle, N.** From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Revise and resubmit*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf_v1)
 
 Althaber, A., **Kapelle, N.**, & Leuze, K. Independent money management and partners’ relative resources: Comparing Eastern and Western Germany. *Revise and resubmit*.
 
