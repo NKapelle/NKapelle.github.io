@@ -9,7 +9,7 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
-Zoch, G., & **Kapelle, N.** (Forthcoming) From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Population and Environment*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf_v1)
+Zoch, G., & **Kapelle, N.** (Forthcoming) From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Population and Environment*. [Working paper](https://osf.io/preprints/socarxiv/n4xwf_v3)
 
 **Kapelle, N.**, & Rowold, C. (Forthcoming) Uncovering what matters: Family life course aspects and personal wealth in late working age. *Demographic Research*. [Replication files](https://osf.io/b9ya6/) \| [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
