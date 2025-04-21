@@ -41,7 +41,7 @@ Spallek, M., Haynes, M., Baxter, J., & **Kapelle, N.** (2020). The value of admi
 
 Rüttenauer, T., & **Kapelle, N.** (Forthcoming) Panel Data Analysis. In: U. Liebe (Ed.) *Handbook of Quantitative Methods in Sociology*. Cheltenham: Edward Elgar Publishing. [Working paper](https://osf.io/preprints/socarxiv/3mfzq)
 
-**Kapelle, N.** (Forthcoming) Money, work, and wealth in partnerships. In: D. Mortelmans, L. Bernardi & B. Perelli-Harris (Ed.) *Research Handbook on Partnering across the Life Course*. Cheltenham: Edward Elgar Publishing.
+**Kapelle, N.** (2025) Money, work, and wealth in partnerships. In: D. Mortelmans, L. Bernardi & B. Perelli-Harris (Ed.) *Research Handbook on Partnering across the Life Course* (pp. 251-267). Cheltenham: Edward Elgar Publishing. [PDF](/files/2025_book chapter_Kapelle.pdf)
 
 Kuper, H., & **Kapelle, N.** (2012) Lehrerkooperation aus organisationssoziologischer Sicht [Cooperation between teachers from the perspective of organisational sociology]. In: E. Baum; T.-S. Idel & H. Ullrich (Ed.) *Kollegialität und Kooperation in der Schule: Theoretische Konzepte und empirische Befunde* (pp. 41-51). Wiesbaden: VS Verlag für Sozialwissenschaften. [PDF](/files/2012_book chapter_KuperKapelle.pdf)
 
