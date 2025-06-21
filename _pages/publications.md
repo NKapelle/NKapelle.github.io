@@ -59,9 +59,9 @@ Althaber, A., **Kapelle, N.**, & Leuze, K. Independent money management and part
 
 Cabib, I., Azar, A., **Kapelle, N.**, Biehl, A., & Yopo Díaz, M. Family life course pluralization and differentiation across liberal regime countries. *Under review*
 
-**Kapelle, N.** & Tilstra, A. Marital separation, BMI decline, and the myth of the revenge body. *Under review* [Working paper](https://osf.io/preprints/socarxiv/hney5_v1)
+**Kapelle, N.**, & Tilstra, A. Marital separation, BMI decline, and the myth of the revenge body. *Under review* [Working paper](https://osf.io/preprints/socarxiv/hney5_v1)
 
-Nutz, T., **Kapelle, N,**, & Tisch, D. Gendered pathways to wealth? The self-assessed relevance of different accumulation channels among women and men across the wealth distribution. *Under review*
+Nutz, T., **Kapelle, N,**, & Tisch, D. Gendered pathways to wealth? The self-assessed relevance of different accumulation channels among women and men across the wealth distribution. *Under review* [Working paper](https://osf.io/preprints/socarxiv/r6gq8_v1)
 
 **Kapelle, N.**, & Jessee, L. Navigating grey divorce: Dynamics of parent-adult child relationships in the United Kingdom. *Invited for submission to special issue.*
 
