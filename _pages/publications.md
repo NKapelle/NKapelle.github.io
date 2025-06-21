@@ -61,5 +61,7 @@ Cabib, I., Azar, A., **Kapelle, N.**, Biehl, A., & Yopo Díaz, M. Family life co
 
 **Kapelle, N.** & Tilstra, A. Marital separation, BMI decline, and the myth of the revenge body. *Under review* [Working paper](https://osf.io/preprints/socarxiv/hney5_v1)
 
+Nutz, T., **Kapelle, N,**, & Tisch, D. Gendered pathways to wealth? The self-assessed relevance of different accumulation channels among women and men across the wealth distribution. *Under review*
+
 **Kapelle, N.**, & Jessee, L. Navigating grey divorce: Dynamics of parent-adult child relationships in the United Kingdom. *Invited for submission to special issue.*
 
