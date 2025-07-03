@@ -55,7 +55,7 @@ Gruijters, R. J., **Kapelle, N.**, Van Winkle, Z., & Fasang, A. (2024) [Millenni
 
 ## Work-in progress: Under review or in an advanced stage 
 
-Althaber, A., **Kapelle, N.**, & Leuze, K. Independent money management and partners’ relative resources: Comparing Eastern and Western Germany. *Revise and resubmit*.
+Althaber, A., **Kapelle, N.**, & Leuze, K. Independent money management and partners’ relative resources: Comparing Eastern and Western Germany. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/osf/zbfu2_v1)
 
 Cabib, I., Azar, A., **Kapelle, N.**, Biehl, A., & Yopo Díaz, M. Family life course pluralization and differentiation across liberal regime countries. *Under review*
 
