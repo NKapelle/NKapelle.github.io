@@ -9,15 +9,17 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Peer-reviewed journal articles
 
+Althaber, A., **Kapelle, N.** , & Leuze, K (2026) Independent or joint? How relative income and wealth relate to couples' money management in Eastern and Western Germany. *Journal of Marriage and Family*. doi: [10.1111/jomf.70075](https://onlinelibrary.wiley.com/doi/10.1111/jomf.70075) \| [PDF](/files/2026_JMF_jomf.70075.pdf) \| [Working paper](https://osf.io/preprints/osf/zbfu2_v1)
+
+Tilstra, A., & **Kapelle, N.** (2026) Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Journal of Health and Social Behavior*, *67*(1), 86-103. doi: [10.1177/00221465251320079](https://journals.sagepub.com/doi/10.1177/00221465251320079) \| [Replication files](https://osf.io/tk5z2/)  \| [PDF](/files/2025_JHSB_10.117700221465251320079.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/h8w53)
+
 Zoch, G., & **Kapelle, N.** (2025) From parenthood to planet care? The evolution of environmental and climate concerns during family formation. *Population and Environment*, *47*(23). doi: [10.1007/s11111-025-00490-x](https://link.springer.com/article/10.1007/s11111-025-00490-x) \| [PDF](/files/2025_PE_s11111-025-00490-x.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/n4xwf_v4)
 
 **Kapelle, N.**, & Rowold, C. (2025) Uncovering what matters: Family life course aspects and personal wealth in late working age. *Demographic Research*, *52*, 689-740. doi: [10.4054/DemRes.2025.52.22](https://www.demographic-research.org/articles/volume/52/22) \| [Replication files](https://osf.io/b9ya6/) \| [PDF](/files/2025_DR_10.4054DemRes.2025.52.22.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/pucvt) 
 
-**Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. (2025) A cohabitation wealth premium for women and men: Considering the regulatory framework and normative acceptance in France and Germany. *Socio-Economic Review*. doi: [10.1093/ser/mwaf013](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwaf013/8078032?login=true) \| [PDF](/files/2025_SER_10.1093sermwaf013.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
+**Kapelle, N.**, Frémeaux, N., Leturcq, M., & Lersch, P. M. (2025) A cohabitation wealth premium for women and men: Considering the regulatory framework and normative acceptance in France and Germany. *Socio-Economic Review*, *23*(2), 591-620. doi: [10.1093/ser/mwaf013](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwaf013/8078032?login=true) \| [PDF](/files/2025_SER_10.1093sermwaf013.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/uz74e) 
 
-Tilstra, A., & **Kapelle, N.** (2025) Breaking bonds, changing habits: Understanding health behaviours during and after marital dissolution. *Journal of Health and Social Behavior*. doi: [10.1177/00221465251320079](https://journals.sagepub.com/doi/10.1177/00221465251320079) \| [Replication files](https://osf.io/tk5z2/)  \| [PDF](/files/2025_JHSB_10.117700221465251320079.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/h8w53)
-
-**Kapelle, N.**, & Weiland, A. (2025) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*. doi: [10.1162/euso_a_00013](https://direct.mit.edu/euso/article/doi/10.1162/euso_a_00013/125835) \| [Replication files](https://osf.io/auzm4/) \| [PDF](/files/2025_EUSO_10.1162euso_a_00013.pdf) \| [Working paper](https://osf.io/preprints/osf/ruyfp)
+**Kapelle, N.**, & Weiland, A. (2025) The intra-couple gap in retiree’s financial resources: Its extent and predictors across Eastern and Western Germany. *European Societies*, *27*(2), 288-319. doi: [10.1162/euso_a_00013](https://direct.mit.edu/euso/article/doi/10.1162/euso_a_00013/125835) \| [Replication files](https://osf.io/auzm4/) \| [PDF](/files/2025_EUSO_10.1162euso_a_00013.pdf) \| [Working paper](https://osf.io/preprints/osf/ruyfp)
 
 **Kapelle, N.**, & Van Winkle, Z. (2024) Changes in household wealth over the process of widowhood across European Countries. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*, *79*(10). doi: [10.1093/geronb/gbae116](https://doi.org/10.1093/geronb/gbae116) \| [Replication files](https://osf.io/gyc7f/) \| [PDF](/files/2024_JGSS_10.1093geronbgbae116.pdf) \| [Working paper](https://osf.io/preprints/socarxiv/davxs_v1) 
 
@@ -54,8 +56,6 @@ Kuper, H., & **Kapelle, N.** (2012) Lehrerkooperation aus organisationssoziologi
 Gruijters, R. J., **Kapelle, N.**, Van Winkle, Z., & Fasang, A. (2024) [Millennials’ Wealth Is Finally Growing — But So Is Inequality](https://inequality.org/research/generational-wealth-inequality/). *Inequality.org*  
 
 ## Work-in progress: Under review or in an advanced stage 
-
-Althaber, A., **Kapelle, N.**, & Leuze, K. Independent money management and partners’ relative resources: Comparing Eastern and Western Germany. *Under review after revise and resubmit*. [Working paper](https://osf.io/preprints/osf/zbfu2_v1)
 
 Cabib, I., Azar, A., **Kapelle, N.**, Biehl, A., & Yopo Díaz, M. Family life course pluralization and differentiation across liberal regime countries. *Under review*
 
