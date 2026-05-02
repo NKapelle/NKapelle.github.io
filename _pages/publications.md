@@ -53,6 +53,8 @@ Kuper, H., & **Kapelle, N.** (2012) Lehrerkooperation aus organisationssoziologi
 
 ## Other
 
+**Kapelle, N.**, & Weiland, A. (2025) [Behind closed doors: Intra-couple pension and wealth gaps in Germany and beyond](https://liser.elsevierpure.com/en/publications/behind-closed-doors-intra-couple-pension-and-wealth-gaps-in-germa-2/). * LISER policy brief 19* 
+
 Gruijters, R. J., **Kapelle, N.**, Van Winkle, Z., & Fasang, A. (2024) [Millennials’ Wealth Is Finally Growing — But So Is Inequality](https://inequality.org/research/generational-wealth-inequality/). *Inequality.org*  
 
 ## Work-in progress: Under review or in an advanced stage 
